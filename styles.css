@@ -1,16 +1,16 @@
-.body { 
-    height: 350px;
+.main {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 650px;
+}
+.body {
+    height: 400px;
     width: 700px;
     background-color: lightblue;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.main {
-    display: flex;
-    justify-content: center;
-    margin: 90px 0 90px 0;
 }
 
 .inner-set {
@@ -19,9 +19,24 @@
     background-color: #fff;
     border-radius: 5%;
     padding: 1%;
+    text-align: center;
 }
- img {
-height: 65%;
-width: 100%;
-border-radius: 5%;
+
+img {
+    height: 65%;
+    width: 100%;
+    border-radius: 5%;
 }
+
+h2 {
+    font-size: 12.75px;
+    font-family: sans-serif;
+} 
+
+p {
+    font-size: 8px;
+     font-family: calibri;
+     font-weight: lighter;
+     padding-left: 15px;
+     padding-right: 15px;
+    }
