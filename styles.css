@@ -18,4 +18,10 @@
     width: 23%;
     background-color: #fff;
     border-radius: 5%;
+    padding: 1%;
+}
+ img {
+height: 65%;
+width: 100%;
+border-radius: 5%;
 }
