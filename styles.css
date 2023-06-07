@@ -10,7 +10,7 @@ main {
 .body {
     height: 685px;
     width: 100%;
-    background-color: lightblue;
+    background-color: hsl(212, 45%, 89%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -39,9 +39,8 @@ h2 {
 } 
 
 p {
-    font-size: 18%;
+    font-size: 95%;
      font-family: calibri;
-     font-weight: lighter;
-     padding-left: 15px;
-     padding-right: 15px;
+     padding-left: 15%;
+     padding-right: 15%;
     }
