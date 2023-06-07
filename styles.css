@@ -1,12 +1,15 @@
-.main {
+main {
      display: flex;
      justify-content: center;
      align-items: center;
-     height: 650px;
+     height: 100%;
+     width: 100%;
+     flex-wrap: wrap;
+     align-content: center;
 }
 .body {
-    height: 400px;
-    width: 700px;
+    height: 100%;
+    width: 100%;
     background-color: lightblue;
     display: flex;
     justify-content: center;
